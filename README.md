@@ -5,6 +5,10 @@ You can install it directly on Windows (not WSL) and on Unix-like systems. For d
 ```bash
 $ python3 -m pip install -r requirements.txt
 ```
+1.安装虚拟环境
+2.安装依赖requirements.txt
+3.直接跑main.py
+4.跑importjson.py
 
 Requires Python 3.6 or higher.
 
